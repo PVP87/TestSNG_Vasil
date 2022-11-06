@@ -1,0 +1,6 @@
+SNG_Tests/SNG_Tests/bin/*
+SNG_Tests/SNG_Tests/obj/*
+
+SNG_Tests/UnitTests/bin/*
+SNG_Tests/UnitTests/obj/*
+*.suo
